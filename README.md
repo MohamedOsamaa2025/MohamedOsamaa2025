@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Highly Motivated Embedded Systems Engineer with a Strong Background in Designing, Developing, and Testing Embedded Software and Hardware Systems. Efficient in Programming Languages such as C/C++, Python, Java and Assembly Language. Experienced in Working with Microcontrollers, Sensors, Communication Protocols, and Real-Time Operating Systems.
