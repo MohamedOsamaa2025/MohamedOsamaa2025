@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Motivated and Adaptable Communication & Electronics Engineering Graduate 
+with a Solid Academic Background in Communication Networks, Electronic 
+Circuits Design, Embedded Systems, System Programming, Linux 
+Administration, IoT and Software Development. Skilled in Multiple 
+Programming Languages (C, C++, Python, Java,JS). Effectively Achieved Many 
+Hardware & Software Projects.
 
-
-Highly Motivated Embedded Systems Engineer with a Strong Background in Designing, Developing, and Testing Embedded Software and Hardware Systems. Efficient in Programming Languages such as C/C++, Python, Java and Assembly Language. Experienced in Working with Microcontrollers, Sensors, Communication Protocols, and Real-Time Operating Systems.
