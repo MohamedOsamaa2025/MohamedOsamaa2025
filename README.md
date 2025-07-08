@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MohamedOsamaa2025/MohamedOsamaa2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Name: Mohamed Osama Bakr 
-Mobile Number: 01148071939
-Email: Mohamed.bakr2224@gmail.com 
-
+Name: Mohamed Osama Bakr      Mobile Number: 01148071939      Email: Mohamed.bakr2224@gmail.com 
 
 Motivated and Adaptable Communication & Electronics Engineering Graduate with a Solid Academic Background in Communication Networks, Electronic, Circuits Design, Embedded Systems, System Programming, Linux Administration, IoT and Software Development.
 Skilled in Multiple Programming Languages (C, C++, Python, Java,JS). Effectively Achieved Many Hardware & Software Projects.
