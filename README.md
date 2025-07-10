@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-Name: Mohamed Osama Bakr      Mobile Number: 01148071939      Email: Mohamed.bakr2224@gmail.com       LinkedIn: www.linkedin.com/in/mohamed-osama-680079287
+Name: Mohamed Osama Bakr     
+Mobile Number: 01148071939      
+Email: Mohamed.bakr2224@gmail.com       
+LinkedIn: www.linkedin.com/in/mohamed-osama-680079287
 
 
 Motivated and Adaptable Communication & Electronics Engineering Graduate with a Solid Academic Background in Communication Networks, Electronic, Circuits Design, Embedded Systems, System Programming, Linux Administration, IoT and Software Development.
