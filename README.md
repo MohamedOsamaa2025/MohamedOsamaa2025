@@ -27,5 +27,5 @@ Bachelor of Engineering in Communication & Electronics Engineering, Shoubra Facu
 
 IoT || Embedded Linux || Embedded Software
 
-![image](https://github.com/user-attachments/assets/c8ce5e4b-91c2-4453-8e5c-5517fedcafb8)
+![embedded-removable-flash-hero](https://github.com/user-attachments/assets/df6f1e0d-7d99-4022-b7ac-782580f14903)
 
